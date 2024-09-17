@@ -1,7 +1,15 @@
-# http5114
+# http5114 - Workshops in Web Dev1
 
-Files form HTTP5114(Workshops in Web Dev1) course.
+Files form HTTP5114(Workshops in Web Dev1) course. This course Teaches us about how to manage our and make our professional profiles like in GitHub, Stack overflow and discord. We use Markup to make simple websites. 
 
+>[!Note]
+>links
+>Code sample: ```# heading 1 ```
+
+
+
+
+<!--
 Make a change!
 
 ## starting a new project
@@ -12,3 +20,5 @@ Make a change!
 4. Clone the repo
 5. Chnage directory into the new folder
 6. Open Vscode and point it to the smae folder
+
+-->

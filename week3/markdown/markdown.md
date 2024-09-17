@@ -40,3 +40,10 @@ This is a link to [my portfolio] (https://github.com/Ramdao)
     console.log("test")
   }
  ```
+ ## Tables
+
+ |Language|Rating|
+ |--------|------|
+ |HTML    | 5    |
+ |JS      | 5    |
+ |CSS     | 5    |

@@ -23,3 +23,8 @@ This is an unodered list:
 ## Links
 
 This is a link to [my portfolio] (https://github.com/Ramdao)
+
+
+## Images
+
+![Cat](./cat.jpg)

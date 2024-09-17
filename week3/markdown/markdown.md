@@ -28,3 +28,5 @@ This is a link to [my portfolio] (https://github.com/Ramdao)
 ## Images
 
 ![Cat](./cat.jpg)
+
+<img src="./bird.jpg" width="100">

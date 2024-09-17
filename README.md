@@ -3,7 +3,7 @@
 Files form HTTP5114(Workshops in Web Dev1) course. This course Teaches us about how to manage our and make our professional profiles like in GitHub, Stack overflow and discord. We use Markup to make simple websites. 
 
 >[!Note]
->links  
+>links  [Markdown documentation/example](https://www.markdownguide.org)
 >Code sample: ```# heading 1 ```
 
 

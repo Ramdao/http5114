@@ -6,7 +6,7 @@ Files form HTTP5114(Workshops in Web Dev1) course. This course Teaches us about 
 >links  [Markdown documentation/example](https://www.markdownguide.org)  
 >Code sample: ```# heading 1 ```
 
-<img src="https://web.dev/images/social-wide.jpg" width=400>
+<img src="https://web.dev/images/social-wide.jpg" width=600>
 
 
 

@@ -30,3 +30,13 @@ This is a link to [my portfolio] (https://github.com/Ramdao)
 ![Cat](./cat.jpg)
 
 <img src="./bird.jpg" width="100">
+
+## Code
+ We can put inline code by suing tic
+ To add an image use an `<img>` tag.
+ multi-line:
+ ```javascript
+  function test (){
+    console.log("test")
+  }
+ ```

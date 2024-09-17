@@ -47,3 +47,7 @@ This is a link to [my portfolio] (https://github.com/Ramdao)
  |HTML    | 5    |
  |JS      | 5    |
  |CSS     | 5    |
+
+ ## Github flavour
+ > [!Note] 
+ > This is a note
